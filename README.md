@@ -13,11 +13,11 @@ The concept of this application is to make it easier for breastfeeding and pumpi
 
 ## Wireframe Sketches (DRAFT)
 
-![Login Screen](https://github.com/HelloLovelyWorld/Nursing-Application/blob/main/Screen1.JPG)
+![Login Screen](https://github.com/HelloLovelyWorld/Nursing-App/blob/main/Screen1.JPG)
 
-![Sign Up Screen](https://github.com/HelloLovelyWorld/Nursing-Application/blob/main/Screen2.JPG)
+![Sign Up Screen](https://github.com/HelloLovelyWorld/Nursing-App/blob/main/Screen2.JPG)
 
-![Breastfeeding and Pumping Screen](https://github.com/HelloLovelyWorld/Nursing-Application/blob/main/Screen3.JPG)
+![Breastfeeding and Pumping Screen](https://github.com/HelloLovelyWorld/Nursing-App/blob/main/Screen3.JPG)
 
 ![Bottle Feeding Screen](https://github.com/HelloLovelyWorld/Nursing-Application/blob/main/Screen4.JPG)
 
