@@ -9,9 +9,13 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BBData", "BBData\BBData.sql
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ECA70816-D405-462C-9B05-20CEB0CFA73D}"
 	ProjectSection(SolutionItems) = preProject
-		Project ERD.jpg = Project ERD.jpg
 		README.md = README.md
 		Requirements_Specs.md = Requirements_Specs.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JPEG Images", "JPEG Images", "{82F01D31-80CE-4503-AE8E-CEE5531803C9}"
+	ProjectSection(SolutionItems) = preProject
+		Project ERD.jpg = Project ERD.jpg
 		Screen1.JPG = Screen1.JPG
 		Screen2.JPG = Screen2.JPG
 		Screen3.JPG = Screen3.JPG
@@ -41,6 +45,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{82F01D31-80CE-4503-AE8E-CEE5531803C9} = {ECA70816-D405-462C-9B05-20CEB0CFA73D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C3ED4FD2-5947-40D3-ACC5-116E149BA2D2}
