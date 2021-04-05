@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoobieBusiness", "BoobieBusiness.csproj", "{184F3266-7263-4292-B7AC-6B6DBEDECED1}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BBData", "..\BBData\BBData.sqlproj", "{1E88D045-1DC0-4DD9-BDAE-4058CD76D9A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{184F3266-7263-4292-B7AC-6B6DBEDECED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184F3266-7263-4292-B7AC-6B6DBEDECED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184F3266-7263-4292-B7AC-6B6DBEDECED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184F3266-7263-4292-B7AC-6B6DBEDECED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E88D045-1DC0-4DD9-BDAE-4058CD76D9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E88D045-1DC0-4DD9-BDAE-4058CD76D9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E88D045-1DC0-4DD9-BDAE-4058CD76D9A0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1E88D045-1DC0-4DD9-BDAE-4058CD76D9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E88D045-1DC0-4DD9-BDAE-4058CD76D9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E88D045-1DC0-4DD9-BDAE-4058CD76D9A0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB90A6F9-DF29-4315-88D3-A5AADF1FBB66}
+	EndGlobalSection
+EndGlobal
